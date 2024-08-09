@@ -1,0 +1,28 @@
+.card-details {
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: rgba(1,1,1,.1);
+  padding: 10px;
+}
+
+.card-details__name {
+}
+
+.card-details__img {
+}
+.card-details__director {
+}
+.card-details__country {
+}
+.card-details__description {
+}
+.card-details__btn {
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgba(1,1,1,.1);
+    transition: all 250ms ease-out;
+}
+.card-details__btn:hover{
+    opacity: .7;
+}
